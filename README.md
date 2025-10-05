@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kayode Uthman
 
-🚀 **Frontend Engineer | UI/UX Enthusiast | Performance-Driven Builder**
+🚀 **Software Engineer | UI/UX Enthusiast | Performance-Driven Builder**
 
 I'm passionate about crafting **intuitive, scalable, and visually captivating web applications** that blend design precision with engineering excellence.  
 I love transforming complex ideas into elegant digital experiences that work beautifully across all devices.
