@@ -10,9 +10,9 @@ I love transforming complex ideas into elegant digital experiences that work bea
 ### 🧠 Tech Stack & Tools
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS  
-**State Management:** Zustand  
-**Backend & Database:** Supabase  
-**Build Tools:** Vite  
+**State Management:** Zustand · Redux Toolkit · Context API 
+**Backend & Database:** Supabase · Firebase · Appwrite 
+**Build Tools:** Vite · Webpack
 **Design:** Figma  
 **Deployment:** Vercel  
 **Version Control:** Git · GitHub  
