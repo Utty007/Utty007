@@ -7,7 +7,7 @@ I love transforming complex ideas into elegant digital experiences that work bea
 
 ---
 
-## 🧠 Tech Stack & Tools
+### 🧠 Tech Stack & Tools
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS  
 **State Management:** Zustand  
